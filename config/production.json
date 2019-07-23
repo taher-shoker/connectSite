@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb://taher:taher1993@dveconnecter-shard-00-00-zxqvl.mongodb.net:27017,dveconnecter-shard-00-01-zxqvl.mongodb.net:27017,dveconnecter-shard-00-02-zxqvl.mongodb.net:27017/test?ssl=true&replicaSet=DveConnecter-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"9596578adf9571c9cb6a",
+    "githubSecret":"de58b87e91ddbbb750d0a2af6bf736df19c93a5f"
+  }
